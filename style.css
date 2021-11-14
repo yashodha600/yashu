@@ -1,0 +1,16 @@
+h1 {
+    font-style: italic;
+    color: rgb(202, 202, 224);
+    font-weight: bolder;
+    font-size:60px;
+}
+p {
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: black;
+    font-weight: bolder;
+}
+body {
+    background-image: url('header-winged-whale-1.jpeg' );background-repeat: no-repeats;
+}
